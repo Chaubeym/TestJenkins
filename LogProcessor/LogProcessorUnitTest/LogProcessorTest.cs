@@ -12,5 +12,11 @@ namespace LogProcessorUnitTest
         {
             Assert.AreEqual("Hi", "Hi");
         }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual("Hi", "Hi");
+        }
+ 
     }
 }
